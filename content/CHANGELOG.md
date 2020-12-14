@@ -1,18 +1,18 @@
 ---
-title: Getting started
-description: 'Empower your NuxtJS application with @nuxt/content module: write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS.'
+Commicado UI Client Changelogs.
+Copyright © Psych X86 Technologies LLP.
+All Rights Reserved.
 ---
+## [1.1.0-beta.0](https://github.com/adarshsmit/c/compare/v1.0.0...v1.1.0-beta.0) (2020-12-14)
 
-Empower your NuxtJS application with `@nuxtjs/content` module: write in a `content/` directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a **Git-based Headless CMS**.
 
-## Writing content
+### Features
 
-Learn how to write your `content/`, supporting Markdown, YAML, CSV and JSON: https://content.nuxtjs.org/writing.
+* added commit in hook of postchangelog. ([64c4c18](https://github.com/adarshsmit/c/commit/64c4c184f6edc9f172dbcfc10cd19d623f836e3a))
 
-## Fetching content
+## 1.0.0 (2020-12-14)
 
-Learn how to fetch your content with `$content`: https://content.nuxtjs.org/fetching.
 
-## Displaying content
+### Features
 
-Learn how to display your Markdown content with the `<nuxt-content>` component directly in your template: https://content.nuxtjs.org/displaying.
+* Added localization(i18n), tailwind with dark mode and changelogs. 182a63e
