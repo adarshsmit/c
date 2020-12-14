@@ -46,7 +46,7 @@
   },
   "precommit": "lint",
   "standard-version": {
-    "header": "---\nCommicado UI Client Changelogs.\nCopyright © Psych X86 Technologies LLP.\nAll Rights Reserved.\n---",
+    "header": "---\ntitle: Commicado UI Client Changelogs.\nsub1: Copyright © Psych X86 Technologies LLP.\nsub2: All Rights Reserved.\n---",
     "scripts": {
       "postchangelog": "\"rm content/CHANGELOG.md && cp CHANGELOG.md content/ && git add content/CHANGELOG.md && git commit -m \"Content changelogs copied.\""
     }

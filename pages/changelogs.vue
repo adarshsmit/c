@@ -1,5 +1,8 @@
 <template>
   <section class="changelog-container">
+    <h1>{{ changelogs.title }}</h1>
+    <h2>{{ changelogs.sub1 }}</h2>
+    <h2>{{ changelogs.sub2 }}</h2>
     <nuxt-content class="container ui" :document="changelogs"></nuxt-content>
   </section>
 </template>

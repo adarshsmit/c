@@ -1,7 +1,7 @@
 ---
-Commicado UI Client Changelogs.
-Copyright © Psych X86 Technologies LLP.
-All Rights Reserved.
+title: Commicado UI Client Changelogs.
+sub1: Copyright © Psych X86 Technologies LLP.
+sub2: All Rights Reserved.
 ---
 ## [1.1.0-beta.0](https://github.com/adarshsmit/c/compare/v1.0.0...v1.1.0-beta.0) (2020-12-14)
 
